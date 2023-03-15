@@ -1,0 +1,13 @@
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+#btn {
+  background-color: #fb6107;
+  border-radius: 15px;
+  padding: 15px 25px;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+}
