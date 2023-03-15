@@ -11,3 +11,10 @@
   color: #fff;
   font-size: 20px;
 }
+
+header {
+  background-color: #fb6107;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
